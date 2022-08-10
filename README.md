@@ -9,7 +9,7 @@
   <p align="center">
     An awesome design for a blog about Design and UX!
     <br />
-    <a href="https://www.figma.com/file/o69C8vOcCH3k08aFZRlc5a/Design-Di%C3%A1rio-Blog?node-id=0%3A1"><strong>See the result</strong></a>
+    <a href="https://www.figma.com/community/file/1139227518461793037"><strong>See the result</strong></a>
     <br />
     <br />
   </p>
